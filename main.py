@@ -52,3 +52,5 @@ print(team.heroes[2].info)
 print(team.mean_age())
 
 print(team.add_hero(h1))
+
+print("hello world")
