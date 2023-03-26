@@ -44,6 +44,7 @@ f = Fish("machli jal di rani", 89)
 print("\n\n\n\n\n\n\n\n")    
 f.intro()
 f.speak()
+
 ''' 
 in the fish example it printed (bol raha hu me) because the command of general class
 was the only one and hence, it was the only prioritized one
